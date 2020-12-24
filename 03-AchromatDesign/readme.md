@@ -144,5 +144,5 @@ The value `0` means the ray is equivalent to a point at the center of the ray bu
 
 The change in effective focal length $F_C-F_F$​ of this achromat lens (on-axis, i.e. `Rel-Pupil`= 0) is
 
-<i style='color:blue'>$F_C-F_F = 9.6 \times 10^{-2} - (-1.6 \times 10^{-1})$
-$F_C-F_F = 0.096 + 0.16 = 0.256$ mm</i>
+$F_C-F_F = 9.6 \times 10^{-2} - (-1.6 \times 10^{-1})$
+$F_C-F_F = 0.096 + 0.16 = 0.256$ mm
