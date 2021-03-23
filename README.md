@@ -2,17 +2,17 @@
 
 ---
 
-1. <a href='https://htmlpreview.github.io/?https://github.com/raymondngiam/OpticalEngineeringProjects/blob/master/01-SingletDesign/readme.html'>Design a Singlet Lens with OpticStudio</a>
+1. <a href='https://raymondngiam.github.io/OpticalEngineering-SingletDesign'>Design a Singlet Lens with OpticStudio</a>
 
-    ![Design a Singlet Lens with OpticStudio](./01-SingletDesign/snapshot.png)
+    ![Design a Singlet Lens with OpticStudio](./img/snapshot1.png)
     <br>
 
-2. <a href='https://htmlpreview.github.io/?https://github.com/raymondngiam/OpticalEngineeringProjects/blob/master/02-BestFormSingletOptimization/readme.html'>Best Form Singlet Optimization with OpticStudio</a>
+2. <a href='https://raymondngiam.github.io/OpticalEngineering-BestFormSingletOptimization'>Best Form Singlet Optimization with OpticStudio</a>
 
-    ![Best Form Singlet Optimization with OpticStudio](./02-BestFormSingletOptimization/snapshot.png)
+    ![Best Form Singlet Optimization with OpticStudio](./img/snapshot2.png)
     <br>
 
-3. <a href='https://htmlpreview.github.io/?https://github.com/raymondngiam/OpticalEngineeringProjects/blob/master/03-AchromatDesign/readme.html'>Achromatic Doublet Design with OpticStudio</a>
+3. <a href='https://raymondngiam.github.io/OpticalEngineering-AchromatDesign'>Achromatic Doublet Design with OpticStudio</a>
 
-    ![Achromatic Doublet Design with OpticStudio](./03-AchromatDesign/snapshot.png)
+    ![Achromatic Doublet Design with OpticStudio](./img/snapshot3.png)
     <br>
